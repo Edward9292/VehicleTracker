@@ -1,9 +1,9 @@
 # Vehicle Tracking with Machine Learning and Computer Vision
-
+<!--
 ![GitHub License](https://img.shields.io/github/license/Edward9292/vehicle-tracking-project)
 ![GitHub Stars](https://img.shields.io/github/stars/Edward9292/vehicle-tracking-project)
 ![GitHub Forks](https://img.shields.io/github/forks/Edward9292/vehicle-tracking-project)
-
+-->
 Welcome to the **Vehicle Tracking with Machine Learning and Computer Vision** project! This open-source project aims to provide an easy-to-use solution for tracking vehicles in videos. Whether you're analyzing traffic patterns, conducting research, or just curious about what's on the road, this project has you covered.
 
 ## Features
